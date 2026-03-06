@@ -1,3 +1,5 @@
+## Please take it to your attention, that this README and the uploaded files are outdated. The next update to those files and the README are coming 06.03. at 21:00 (UTC+1)
+
 # ShootingStars
 
 A Brawl Stars-inspired game implementation in C# featuring Shooters with unique attacks, ultimate abilities, and various game modes.
