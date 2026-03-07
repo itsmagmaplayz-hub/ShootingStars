@@ -1,12 +1,10 @@
-## Please take it to your attention, that this README and the uploaded files are outdated. The next update to those files and the README are coming 06.03. at 21:00 (UTC+1)
-
-# ShootingStars
+# ShootingStars Game
 
 A Brawl Stars-inspired game implementation in C# featuring Shooters with unique attacks, ultimate abilities, and various game modes.
 
 ## Features
 
-### Shooters
+### Shooters (Brawlers)
 - **Blastian** (Assault) - Explosive rapid-fire shooter
 - **ShadowShell** (Sniper) - Precision long-range sniper
 - **Inferno** (Caster) - Fire-based explosive caster
@@ -73,7 +71,7 @@ ShootingStars/
 │   ├── Position.cs         - Grid position system
 │   ├── Attack.cs           - Attack definition and types
 │   ├── Ultimate.cs         - Ultimate ability definition
-│   ├── Shooter.cs          - Shooter class with factory
+│   ├── Shooter.cs          - Shooter (Brawler) class with factory
 │   ├── Player.cs           - Player state and health management
 │   ├── Tile.cs             - Map tile system
 │   ├── Map.cs              - Map generation and management
