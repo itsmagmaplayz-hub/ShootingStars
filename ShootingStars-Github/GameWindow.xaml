@@ -1,8 +1,0 @@
-<Window x:Class="ShootingStars.GameWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="ShootingStars" Height="800" Width="1200" Background="#1E1E1E"
-        Foreground="White" WindowStartupLocation="CenterScreen">
-    <Grid>
-    </Grid>
-</Window>
